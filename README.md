@@ -1,11 +1,8 @@
-## Hi there 👋
-
 
 **Rokibul-Hassan-Remon/Rokibul-Hassan-Remon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
   # 💫 About Me:
-I'm currently working on<br>"I’m currently working on building web applications using ASP.NET and learning Entity Framework to enhance my database interaction skills."<br><br>I'm looking to collaborate on<br>"I’m looking to collaborate on ASP.NET Core projects, database optimization tasks, and any beginner-to-intermediate .NET development initiatives."<br><br>I'm looking for help with<br>"I’m looking for help with mastering advanced Entity Framework concepts and improving my problem-solving skills for real-world applications."<br><br>I'm currently learning<br>"I’m currently learning Entity Framework, ASP.NET Core, and improving my understanding of relational databases and SQL queries."<br><br>Ask me about<br>"Ask me about ASP.NET, C#, basic database design, or how I approach learning new technologies in the .NET ecosystem."<br><br>Fun fact<br>"Fun fact: I love solving coding problems in my free time, and I enjoy designing database schemas for fun!"
+- 🔭I'm currently working on<br>"I’m currently working on building web applications using ASP.NET and learning Entity Framework to enhance my database interaction skills."<br><br>- 👯I'm looking to collaborate on<br>"I’m looking to collaborate on ASP.NET Core projects, database optimization tasks, and any beginner-to-intermediate .NET development initiatives."<br><br>- 🤔I'm looking for help with<br>"I’m looking for help with mastering advanced Entity Framework concepts and improving my problem-solving skills for real-world applications."<br><br>I'm currently learning<br>"I’m currently learning Entity Framework, ASP.NET Core, and improving my understanding of relational databases and SQL queries."<br><br>Ask me about<br>"Ask me about ASP.NET, C#, basic database design, or how I approach learning new technologies in the .NET ecosystem."<br><br>Fun fact<br>"Fun fact: I love solving coding problems in my free time, and I enjoy designing database schemas for fun!"
 
 
 ## 🌐 Socials:
