@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 🔭 I’m currently working on building web applications using **ASP.NET** and learning **Entity Framework** <br><br>
-- 👯  I’m looking to collaborate on ASP.NET Core projects, database optimization tasks, and any beginner-to-intermediate .NET development initiatives.<br><br>
+- 👯  I’m looking to collaborate on `ASP.NET Core projects`, `database optimization tasks`, and any `beginner-to-intermediate .NET` development initiatives.<br><br>
 - 🤔  I’m looking for help with mastering advanced **Entity Framework** concepts and improving my **problem-solving** skills for real-world applications.<br><br>
 - 🎫  I’m currently learning **Entity Framework**,**ASP.NET Core**, and improving my understanding of **relational databases** and **SQL queries**.<br><br>
 - 💬  Ask me about **ASP.NET**, **C#**, **basic database design**.<br><br>
